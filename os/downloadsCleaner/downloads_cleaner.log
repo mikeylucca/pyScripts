@@ -1,0 +1,56 @@
+2025-07-30 23:55:06,789 - ERROR - Downloads folder not found: /home/lokywsl/Downloads
+2025-07-30 23:55:22,477 - INFO - Starting cleanup of downloads folder: /home/lokywsl/Downloads
+2025-07-30 23:55:22,477 - INFO - Deleting items older than 30 days
+2025-07-30 23:55:22,477 - INFO - DRY RUN MODE - No files will be actually deleted
+2025-07-30 23:55:22,477 - INFO - Cleanup completed!
+2025-07-30 23:55:22,477 - INFO - Items processed: 0
+2025-07-30 23:55:22,477 - INFO - Total size that would be freed: 0.00 MB
+2025-07-30 23:55:22,478 - INFO - Dry run completed. No files were actually deleted.
+2025-07-30 23:57:59,354 - INFO - WSL environment detected, looking for Windows Downloads folder
+2025-07-30 23:59:11,142 - INFO - Windows username detected: loky\yuuki
+2025-07-30 23:59:11,145 - INFO - Found Windows Downloads folder: /mnt/c/Users/Default/Downloads
+2025-07-30 23:59:11,147 - INFO - Starting cleanup of downloads folder: /mnt/c/Users/Default/Downloads
+2025-07-30 23:59:11,147 - INFO - Deleting items older than 30 days
+2025-07-30 23:59:11,147 - INFO - DRY RUN MODE - No files will be actually deleted
+2025-07-30 23:59:11,150 - INFO - Cleanup completed!
+2025-07-30 23:59:11,150 - INFO - Items processed: 0
+2025-07-30 23:59:11,150 - INFO - Total size that would be freed: 0.00 MB
+2025-07-30 23:59:11,150 - INFO - Dry run completed. No files were actually deleted.
+2025-07-30 23:59:53,838 - INFO - WSL environment detected, looking for Windows Downloads folder
+2025-07-30 23:59:53,839 - INFO - Windows username detected: lokywsl
+2025-07-30 23:59:53,841 - INFO - Found Windows Downloads folder: /mnt/c/Users/Default/Downloads
+2025-07-30 23:59:53,842 - INFO - Starting cleanup of downloads folder: /mnt/c/Users/Default/Downloads
+2025-07-30 23:59:53,842 - INFO - Deleting items older than 30 days
+2025-07-30 23:59:53,843 - INFO - DRY RUN MODE - No files will be actually deleted
+2025-07-30 23:59:53,845 - INFO - Cleanup completed!
+2025-07-30 23:59:53,846 - INFO - Items processed: 0
+2025-07-30 23:59:53,846 - INFO - Total size that would be freed: 0.00 MB
+2025-07-30 23:59:53,846 - INFO - Dry run completed. No files were actually deleted.
+2025-07-31 00:00:09,382 - INFO - WSL environment detected, looking for Windows Downloads folder
+2025-07-31 00:00:09,382 - INFO - Windows username detected: lokywsl
+2025-07-31 00:00:09,385 - INFO - Found Windows Downloads folder: /mnt/c/Users/Default/Downloads
+2025-07-31 00:00:09,387 - INFO - Starting cleanup of downloads folder: /mnt/c/Users/Default/Downloads
+2025-07-31 00:00:09,387 - INFO - Deleting items older than 30 days
+2025-07-31 00:00:09,387 - INFO - DRY RUN MODE - No files will be actually deleted
+2025-07-31 00:00:09,390 - INFO - Cleanup completed!
+2025-07-31 00:00:09,390 - INFO - Items processed: 0
+2025-07-31 00:00:09,390 - INFO - Total size that would be freed: 0.00 MB
+2025-07-31 00:00:09,390 - INFO - Dry run completed. No files were actually deleted.
+2025-07-31 00:00:49,184 - INFO - WSL environment detected, looking for Windows Downloads folder
+2025-07-31 00:00:49,192 - INFO - Found Windows Downloads folder for user 'yuuki': /mnt/c/Users/yuuki/Downloads
+2025-07-31 00:00:49,193 - INFO - Starting cleanup of downloads folder: /mnt/c/Users/yuuki/Downloads
+2025-07-31 00:00:49,194 - INFO - Deleting items older than 30 days
+2025-07-31 00:00:49,194 - INFO - DRY RUN MODE - No files will be actually deleted
+2025-07-31 00:00:49,208 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/576.80-desktop-win10-win11-64bit-international-dch-whql.exe
+2025-07-31 00:00:49,217 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/BraveBrowserSetup-BRV011.exe
+2025-07-31 00:00:49,224 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/cmake-4.1.0-rc1-windows-x86_64.msi
+2025-07-31 00:00:49,231 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/desktop.ini
+2025-07-31 00:00:49,237 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/DiscordSetup.exe
+2025-07-31 00:00:49,244 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/EpicInstaller-18.7.0.msi
+2025-07-31 00:00:49,257 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/glad.zip
+2025-07-31 00:00:49,277 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/SteamSetup.exe
+2025-07-31 00:00:49,288 - INFO - [DRY RUN] Would delete file: /mnt/c/Users/yuuki/Downloads/WutheringWaves_overseas _setup_2.1.1.0.exe
+2025-07-31 00:00:49,288 - INFO - Cleanup completed!
+2025-07-31 00:00:49,288 - INFO - Items processed: 9
+2025-07-31 00:00:49,288 - INFO - Total size that would be freed: 1316.87 MB
+2025-07-31 00:00:49,289 - INFO - Dry run completed. No files were actually deleted.
