@@ -8,6 +8,7 @@ from pathlib import Path
 import argparse
 import logging
 import subprocess
+
 logging.basicConfig(
 	level=logging.INFO,
 	format='%(asctime)s - %(levelname)s - %(message)s',
